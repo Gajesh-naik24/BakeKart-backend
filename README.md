@@ -124,8 +124,3 @@ curl -X POST http://localhost:5000/api/auth/login \
 Developed by **Gajesh**
 
 
-
-
-
-If you want, I can now make a **combined README** that links both frontend and backend setup steps for your repo’s root.
-```
